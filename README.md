@@ -1,6 +1,6 @@
 # Vue-仿豆瓣电影
 
-> 项目中使用Vue2.0+Vuex[仓库]+Vue-router[路由]+vue-infinite-loading[无限加载]+superagent[请求]
+> demo中使用Vue2.0+Vuex[仓库]+Vue-router[路由]+vue-infinite-loading[无限加载]+superagent[请求]
 
 
 ## Build Setup
