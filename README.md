@@ -3,6 +3,8 @@
 > demo中使用Vue2.0+Vuex[仓库]+Vue-router[路由]+vue-infinite-loading[无限加载]+superagent[请求]
 
 
+<img src='./statics/image/微信截图_20171210153316.png'/>
+
 ## Build Setup
 
 ``` bash
