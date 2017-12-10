@@ -1,18 +1,20 @@
-# my-douban
+# Vue-仿豆瓣电影
 
-> A Vue.js project
+> 项目中使用Vue2.0+Vuex[仓库]+Vue-router[路由]+vue-infinite-loading[无限加载]+superagent[请求]
+
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 项目初始化
 npm install
 
-# serve with hot reload at localhost:8080
+# 本地启动项目 localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包压缩代码生成dist目录--上线
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
