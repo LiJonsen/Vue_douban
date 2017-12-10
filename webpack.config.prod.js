@@ -124,7 +124,7 @@ module.exports = {
                 minifyCSS: true,
                 minifyJS: true,
                 removeComments: true,
-                collapseWhitespace: true
+                collapseWhitespace: true,
             }
         }),
 
